@@ -27,3 +27,17 @@ Si deseas correr este proyecto localmente, sigue estos pasos:
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
    ```
+2. Ve al directorio del proyecto:
+```
+cd "nombre repositorio"
+```
+
+3. Instala las dependencias
+```
+npm install
+```
+
+4. Inicia el proyecto de manera local
+```
+npm run dev
+```
