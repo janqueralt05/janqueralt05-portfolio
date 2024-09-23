@@ -6,7 +6,7 @@ export const Header = () => {
         <a href="#" className="nav-item">Proyectos</a>
         <a href="#" className="nav-item">Información</a>
         <a href="#" className="nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray-900">Contáctame</a>
-        <a href="https://github.com/janqueralt05" target="_blank" className="nav-item">Github</a>
+        <a href="#" target="_blank" className="nav-item">Changelog</a>
       </nav>
     </div>
   );
