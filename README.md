@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mi Portafolio
 
-## Getting Started
+Este es mi portafolio personal donde muestro algunos de los proyectos en los que he trabajado. Está desarrollado con **React** y **TailwindCSS**, y se ha desplegado utilizando **Vercel**.
 
-First, run the development server:
+## Tecnologías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **TailwindCSS**: Framework de CSS para un desarrollo ágil y estilización eficiente.
+- **Vercel**: Plataforma de despliegue para proyectos frontend.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Características
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Diseño limpio y minimalista
+- Totalmente responsive
+- Sección de proyectos con información detallada
+- Contacto directo a través de un formulario
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Despliegue
 
-## Learn More
+El portafolio está en línea y puede ser visitado en [Vercel](https://tu-url-de-vercel.vercel.app).
 
-To learn more about Next.js, take a look at the following resources:
+## Instalación
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Si deseas correr este proyecto localmente, sigue estos pasos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repo.git
