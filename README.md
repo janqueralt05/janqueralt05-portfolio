@@ -24,9 +24,9 @@ El portafolio está en línea y puede ser visitado en [Vercel](https://tu-url-de
 Si deseas correr este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   ```
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+```
 2. Ve al directorio del proyecto:
 ```
 cd "nombre repositorio"
